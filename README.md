@@ -2,7 +2,7 @@
 
 ## Solution Approach
 
-*Problem Statement* - To predict if an existing customer of a car insurance company will raise a claim in the upcoming 6 months or not.
+**Problem Statement** - To predict if an existing customer of a car insurance company will raise a claim in the upcoming 6 months or not.
 
 Below are the steps taken to find an optimized model for the given classification problem:
 
